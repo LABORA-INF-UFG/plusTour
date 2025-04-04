@@ -255,7 +255,7 @@ Feel free to use the data sets and +Tour! Please do not forget to cite our paper
 
 ```
 @article{ESPER2025111118,
-	title = {+Tour: Recommending personalized itineraries for smart tourism},
+	title = {{+Tour: Recommending personalized itineraries for smart tourism}},
 	journal = {Computer Networks},
 	volume = {260},
 	pages = {111118},
