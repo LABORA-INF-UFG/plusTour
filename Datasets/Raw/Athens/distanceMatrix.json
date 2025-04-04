@@ -1,0 +1,4418 @@
+[
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 513,
+            "distance": 690
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 704,
+            "distance": 931
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1973,
+            "distance": 2523
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 689,
+            "distance": 910
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 15820,
+            "distance": 20632
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 1615,
+            "distance": 1998
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 1839,
+            "distance": 2327
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 1885,
+            "distance": 2390
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 761,
+            "distance": 1097
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 1089,
+            "distance": 1336
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 1734,
+            "distance": 2158
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 2144,
+            "distance": 2728
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 2019,
+            "distance": 2597
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 1028,
+            "distance": 1360
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 1236,
+            "distance": 1524
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 1135,
+            "distance": 1424
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 821,
+            "distance": 1091
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 1164,
+            "distance": 1464
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 727,
+            "distance": 862
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 391,
+            "distance": 467
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 492,
+            "distance": 615
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 1136,
+            "distance": 1456
+      },
+      {
+            "fromPOIid": 1,
+            "fromPOIName": "Acropolis_of_Athens",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1430,
+            "distance": 2035
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 653,
+            "distance": 690
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1046,
+            "distance": 1446
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 2149,
+            "distance": 2842
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 443,
+            "distance": 590
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 15574,
+            "distance": 20311
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 1368,
+            "distance": 1678
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 1593,
+            "distance": 2006
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 1639,
+            "distance": 2069
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 1000,
+            "distance": 1396
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 908,
+            "distance": 1151
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 1488,
+            "distance": 1837
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 2320,
+            "distance": 3046
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 2196,
+            "distance": 2915
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 695,
+            "distance": 997
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 1127,
+            "distance": 1428
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 1022,
+            "distance": 1349
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 1125,
+            "distance": 1594
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 1051,
+            "distance": 1389
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 614,
+            "distance": 787
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 578,
+            "distance": 700
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 222,
+            "distance": 271
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 1143,
+            "distance": 1529
+      },
+      {
+            "fromPOIid": 2,
+            "fromPOIName": "Acropolis_Museum",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1668,
+            "distance": 2334
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 890,
+            "distance": 931
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 1115,
+            "distance": 1446
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1933,
+            "distance": 2494
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 1147,
+            "distance": 1481
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 15995,
+            "distance": 20830
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 1715,
+            "distance": 2081
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 1939,
+            "distance": 2409
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 1985,
+            "distance": 2472
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 524,
+            "distance": 715
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 1225,
+            "distance": 1553
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 1834,
+            "distance": 2240
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 2039,
+            "distance": 2569
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 1830,
+            "distance": 2329
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 1642,
+            "distance": 2176
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 1332,
+            "distance": 1677
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 1153,
+            "distance": 1488
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 414,
+            "distance": 569
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 1146,
+            "distance": 1477
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 990,
+            "distance": 1195
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 585,
+            "distance": 660
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 1157,
+            "distance": 1464
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 1096,
+            "distance": 1427
+      },
+      {
+            "fromPOIid": 3,
+            "fromPOIName": "Ancient_Agora_of_Athens",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 943,
+            "distance": 1290
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 2060,
+            "distance": 2523
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 2133,
+            "distance": 2842
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1822,
+            "distance": 2494
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 2139,
+            "distance": 2816
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 14817,
+            "distance": 19332
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 1398,
+            "distance": 1746
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 1653,
+            "distance": 2060
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 1699,
+            "distance": 2123
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 1654,
+            "distance": 2231
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 1433,
+            "distance": 1832
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 1481,
+            "distance": 1816
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 208,
+            "distance": 279
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 423,
+            "distance": 572
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 2710,
+            "distance": 3605
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 1213,
+            "distance": 1557
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 1211,
+            "distance": 1565
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 1486,
+            "distance": 2021
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 1240,
+            "distance": 1605
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 1747,
+            "distance": 2267
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 1603,
+            "distance": 2049
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 2216,
+            "distance": 2926
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 1115,
+            "distance": 1453
+      },
+      {
+            "fromPOIid": 4,
+            "fromPOIName": "National_Archaeological_Museum",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1240,
+            "distance": 1677
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 858,
+            "distance": 910
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 472,
+            "distance": 590
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1109,
+            "distance": 1481
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 2177,
+            "distance": 2816
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 15193,
+            "distance": 19820
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 1134,
+            "distance": 1385
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 1243,
+            "distance": 1564
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 1289,
+            "distance": 1627
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 1332,
+            "distance": 1799
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 791,
+            "distance": 971
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 1242,
+            "distance": 1544
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 2397,
+            "distance": 3105
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 2282,
+            "distance": 2946
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 723,
+            "distance": 983
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 1004,
+            "distance": 1233
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 1047,
+            "distance": 1315
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 1163,
+            "distance": 1600
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 1076,
+            "distance": 1355
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 585,
+            "distance": 679
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 718,
+            "distance": 860
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 554,
+            "distance": 674
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 1192,
+            "distance": 1528
+      },
+      {
+            "fromPOIid": 5,
+            "fromPOIName": "Temple_of_Olympian_Zeus",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1700,
+            "distance": 2334
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 15696,
+            "distance": 20622
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 15310,
+            "distance": 20302
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 15632,
+            "distance": 20821
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 14603,
+            "distance": 19344
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 14908,
+            "distance": 19811
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 14228,
+            "distance": 18811
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 13914,
+            "distance": 18411
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 13870,
+            "distance": 18349
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 15590,
+            "distance": 20742
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 14565,
+            "distance": 19268
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 14138,
+            "distance": 18686
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 14540,
+            "distance": 19295
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 14755,
+            "distance": 19584
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 15492,
+            "distance": 20626
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 14621,
+            "distance": 19358
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 14808,
+            "distance": 19593
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 15328,
+            "distance": 20395
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 14837,
+            "distance": 19633
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 14959,
+            "distance": 19764
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 15352,
+            "distance": 20272
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 15393,
+            "distance": 20386
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 14971,
+            "distance": 19817
+      },
+      {
+            "fromPOIid": 6,
+            "fromPOIName": "Attica_Zoological_Park",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 15724,
+            "distance": 20898
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 1495,
+            "distance": 1838
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 1219,
+            "distance": 1678
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1464,
+            "distance": 2081
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1265,
+            "distance": 1746
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 957,
+            "distance": 1385
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 14341,
+            "distance": 18821
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 285,
+            "distance": 399
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 331,
+            "distance": 462
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 1422,
+            "distance": 2002
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 397,
+            "distance": 528
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 180,
+            "distance": 230
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 1481,
+            "distance": 2035
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 1638,
+            "distance": 2242
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 1541,
+            "distance": 2200
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 453,
+            "distance": 618
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 640,
+            "distance": 853
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 1160,
+            "distance": 1655
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 669,
+            "distance": 893
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 791,
+            "distance": 1024
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 1184,
+            "distance": 1532
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 1302,
+            "distance": 1762
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 785,
+            "distance": 1066
+      },
+      {
+            "fromPOIid": 8,
+            "fromPOIName": "Benaki_Museum",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1620,
+            "distance": 2273
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 1749,
+            "distance": 2166
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 1473,
+            "distance": 2006
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1718,
+            "distance": 2409
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1594,
+            "distance": 2169
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 1102,
+            "distance": 1564
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 14056,
+            "distance": 18421
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 314,
+            "distance": 399
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 46,
+            "distance": 63
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 1676,
+            "distance": 2331
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 651,
+            "distance": 856
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 224,
+            "distance": 274
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 1810,
+            "distance": 2458
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 1979,
+            "distance": 2685
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 1686,
+            "distance": 2379
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 707,
+            "distance": 947
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 894,
+            "distance": 1182
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 1414,
+            "distance": 1983
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 923,
+            "distance": 1221
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 1045,
+            "distance": 1352
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 1438,
+            "distance": 1860
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 1556,
+            "distance": 2091
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 1039,
+            "distance": 1395
+      },
+      {
+            "fromPOIid": 9,
+            "fromPOIName": "Byzantine_And_Christian_Museum",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1874,
+            "distance": 2602
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 1794,
+            "distance": 2229
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 1517,
+            "distance": 2069
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1762,
+            "distance": 2472
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1638,
+            "distance": 2232
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 1147,
+            "distance": 1627
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 14010,
+            "distance": 18359
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 359,
+            "distance": 462
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 45,
+            "distance": 63
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 1721,
+            "distance": 2394
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 696,
+            "distance": 919
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 268,
+            "distance": 337
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 1855,
+            "distance": 2521
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 2023,
+            "distance": 2747
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 1730,
+            "distance": 2441
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 752,
+            "distance": 1009
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 938,
+            "distance": 1244
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 1459,
+            "distance": 2046
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 967,
+            "distance": 1284
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 1089,
+            "distance": 1415
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 1482,
+            "distance": 1923
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 1600,
+            "distance": 2153
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 1083,
+            "distance": 1457
+      },
+      {
+            "fromPOIid": 10,
+            "fromPOIName": "Athens_War_Museum",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1919,
+            "distance": 2664
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 1002,
+            "distance": 1097
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 1084,
+            "distance": 1396
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 512,
+            "distance": 715
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1749,
+            "distance": 2231
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 1371,
+            "distance": 1799
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 15934,
+            "distance": 20752
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 1654,
+            "distance": 2002
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 1878,
+            "distance": 2331
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 1924,
+            "distance": 2394
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 1164,
+            "distance": 1475
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 1773,
+            "distance": 2162
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 1849,
+            "distance": 2306
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 1640,
+            "distance": 2066
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 1417,
+            "distance": 1883
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 1271,
+            "distance": 1599
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 1092,
+            "distance": 1409
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 247,
+            "distance": 348
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 1085,
+            "distance": 1399
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 1131,
+            "distance": 1432
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 800,
+            "distance": 966
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 931,
+            "distance": 1172
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 1035,
+            "distance": 1349
+      },
+      {
+            "fromPOIid": 11,
+            "fromPOIName": "Temple_of_Hephaestus",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 683,
+            "distance": 951
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 1102,
+            "distance": 1306
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 831,
+            "distance": 1151
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1067,
+            "distance": 1553
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1399,
+            "distance": 1858
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 675,
+            "distance": 971
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 14770,
+            "distance": 19277
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 489,
+            "distance": 528
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 714,
+            "distance": 856
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 760,
+            "distance": 919
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 1025,
+            "distance": 1475
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 609,
+            "distance": 687
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 1588,
+            "distance": 2091
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 1478,
+            "distance": 1957
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 1245,
+            "distance": 1748
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 226,
+            "distance": 275
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 243,
+            "distance": 325
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 763,
+            "distance": 1127
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 272,
+            "distance": 365
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 355,
+            "distance": 477
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 787,
+            "distance": 1004
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 913,
+            "distance": 1236
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 388,
+            "distance": 538
+      },
+      {
+            "fromPOIid": 12,
+            "fromPOIName": "Syntagma_(Constitution)_Square",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1223,
+            "distance": 1745
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 1615,
+            "distance": 1997
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 1338,
+            "distance": 1837
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1584,
+            "distance": 2240
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1396,
+            "distance": 1924
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 1066,
+            "distance": 1544
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 14250,
+            "distance": 18696
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 180,
+            "distance": 230
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 195,
+            "distance": 274
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 240,
+            "distance": 337
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 1542,
+            "distance": 2162
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 517,
+            "distance": 687
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 1613,
+            "distance": 2213
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 1770,
+            "distance": 2420
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 1649,
+            "distance": 2359
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 573,
+            "distance": 777
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 759,
+            "distance": 1012
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 1280,
+            "distance": 1814
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 788,
+            "distance": 1052
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 910,
+            "distance": 1183
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 1303,
+            "distance": 1691
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 1421,
+            "distance": 1922
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 904,
+            "distance": 1225
+      },
+      {
+            "fromPOIid": 13,
+            "fromPOIName": "Museum_of_Cycladic_Art",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1740,
+            "distance": 2432
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 2227,
+            "distance": 2728
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 2301,
+            "distance": 3046
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1931,
+            "distance": 2569
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 206,
+            "distance": 279
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 2355,
+            "distance": 3105
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 14762,
+            "distance": 19295
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 1612,
+            "distance": 2035
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 1861,
+            "distance": 2345
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 1907,
+            "distance": 2407
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 1756,
+            "distance": 2306
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 1629,
+            "distance": 2088
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 1688,
+            "distance": 2100
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 293,
+            "distance": 390
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 2758,
+            "distance": 3722
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 1444,
+            "distance": 1872
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 1398,
+            "distance": 1794
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 1607,
+            "distance": 2119
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 1427,
+            "distance": 1834
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 1934,
+            "distance": 2496
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 1771,
+            "distance": 2253
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 2383,
+            "distance": 3130
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 1302,
+            "distance": 1682
+      },
+      {
+            "fromPOIid": 14,
+            "fromPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1273,
+            "distance": 1714
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 2141,
+            "distance": 2597
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 2214,
+            "distance": 2915
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1759,
+            "distance": 2329
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 453,
+            "distance": 572
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 2266,
+            "distance": 2946
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 15016,
+            "distance": 19584
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 1819,
+            "distance": 2249
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 2117,
+            "distance": 2672
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 2163,
+            "distance": 2735
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 1584,
+            "distance": 2066
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 1552,
+            "distance": 1957
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 1957,
+            "distance": 2427
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 331,
+            "distance": 396
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 2671,
+            "distance": 3591
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 1432,
+            "distance": 1799
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 1321,
+            "distance": 1663
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 1435,
+            "distance": 1879
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 1350,
+            "distance": 1703
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 1857,
+            "distance": 2365
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 1684,
+            "distance": 2122
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 2297,
+            "distance": 3000
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 1225,
+            "distance": 1552
+      },
+      {
+            "fromPOIid": 15,
+            "fromPOIName": "Hellenic_Motor_Museum",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1101,
+            "distance": 1474
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 1258,
+            "distance": 1360
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 823,
+            "distance": 997
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1694,
+            "distance": 2176
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 2847,
+            "distance": 3605
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 822,
+            "distance": 983
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 15882,
+            "distance": 20635
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 1822,
+            "distance": 2200
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 1932,
+            "distance": 2379
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 1977,
+            "distance": 2441
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 1464,
+            "distance": 1883
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 1448,
+            "distance": 1748
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 1930,
+            "distance": 2359
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 2903,
+            "distance": 3719
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 2778,
+            "distance": 3584
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 1674,
+            "distance": 2022
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 1693,
+            "distance": 2092
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 1697,
+            "distance": 2218
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 1722,
+            "distance": 2132
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 1231,
+            "distance": 1457
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 1243,
+            "distance": 1482
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 771,
+            "distance": 892
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 1838,
+            "distance": 2305
+      },
+      {
+            "fromPOIid": 16,
+            "fromPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 2133,
+            "distance": 2821
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 1289,
+            "distance": 1524
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 1067,
+            "distance": 1428
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1166,
+            "distance": 1677
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1173,
+            "distance": 1583
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 911,
+            "distance": 1233
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 14819,
+            "distance": 19368
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 539,
+            "distance": 618
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 763,
+            "distance": 947
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 809,
+            "distance": 1009
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 1124,
+            "distance": 1599
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 221,
+            "distance": 275
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 658,
+            "distance": 777
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 1393,
+            "distance": 1872
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 1345,
+            "distance": 1815
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 1482,
+            "distance": 2022
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 197,
+            "distance": 271
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 862,
+            "distance": 1251
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 226,
+            "distance": 310
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 545,
+            "distance": 715
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 902,
+            "distance": 1159
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 1150,
+            "distance": 1513
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 342,
+            "distance": 483
+      },
+      {
+            "fromPOIid": 17,
+            "fromPOIName": "Numismatic_Museum_of_Athens",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1271,
+            "distance": 1792
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 1204,
+            "distance": 1424
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 977,
+            "distance": 1349
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1015,
+            "distance": 1488
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1192,
+            "distance": 1565
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 978,
+            "distance": 1315
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 15034,
+            "distance": 19603
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 753,
+            "distance": 853
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 978,
+            "distance": 1182
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 1024,
+            "distance": 1244
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 973,
+            "distance": 1409
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 264,
+            "distance": 325
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 873,
+            "distance": 1012
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 1377,
+            "distance": 1798
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 1268,
+            "distance": 1663
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 1528,
+            "distance": 2092
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 226,
+            "distance": 271
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 711,
+            "distance": 1062
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 29,
+            "distance": 40
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 522,
+            "distance": 683
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 800,
+            "distance": 1034
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 1060,
+            "distance": 1434
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 177,
+            "distance": 245
+      },
+      {
+            "fromPOIid": 18,
+            "fromPOIName": "National_Historical_Museum",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1091,
+            "distance": 1556
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 1004,
+            "distance": 1091
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 1216,
+            "distance": 1594
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 410,
+            "distance": 569
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1589,
+            "distance": 2021
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 1226,
+            "distance": 1600
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 15687,
+            "distance": 20404
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 1407,
+            "distance": 1655
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 1631,
+            "distance": 1983
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 1677,
+            "distance": 2046
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 262,
+            "distance": 348
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 917,
+            "distance": 1127
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 1526,
+            "distance": 1814
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 1712,
+            "distance": 2119
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 1503,
+            "distance": 1879
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 1670,
+            "distance": 2218
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 1024,
+            "distance": 1251
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 845,
+            "distance": 1062
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 838,
+            "distance": 1051
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 984,
+            "distance": 1217
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 686,
+            "distance": 801
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 1184,
+            "distance": 1507
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 788,
+            "distance": 1001
+      },
+      {
+            "fromPOIid": 19,
+            "fromPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 585,
+            "distance": 794
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 1232,
+            "distance": 1464
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 1005,
+            "distance": 1389
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1007,
+            "distance": 1477
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1220,
+            "distance": 1605
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 1006,
+            "distance": 1355
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 15062,
+            "distance": 19643
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 781,
+            "distance": 893
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 1006,
+            "distance": 1221
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 1052,
+            "distance": 1284
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 965,
+            "distance": 1399
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 292,
+            "distance": 365
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 901,
+            "distance": 1052
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 1405,
+            "distance": 1837
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 1296,
+            "distance": 1703
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 1556,
+            "distance": 2132
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 254,
+            "distance": 310
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 28,
+            "distance": 40
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 703,
+            "distance": 1051
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 550,
+            "distance": 722
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 788,
+            "distance": 1031
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 1088,
+            "distance": 1473
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 205,
+            "distance": 285
+      },
+      {
+            "fromPOIid": 20,
+            "fromPOIName": "Old_Parliament",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1074,
+            "distance": 1552
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 771,
+            "distance": 862
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 544,
+            "distance": 787
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 838,
+            "distance": 1195
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1680,
+            "distance": 2236
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 478,
+            "distance": 679
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 15109,
+            "distance": 19757
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 828,
+            "distance": 1007
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 1053,
+            "distance": 1335
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 1099,
+            "distance": 1398
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 982,
+            "distance": 1432
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 376,
+            "distance": 496
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 948,
+            "distance": 1166
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 1865,
+            "distance": 2469
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 1756,
+            "distance": 2334
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 1028,
+            "distance": 1457
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 523,
+            "distance": 684
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 490,
+            "distance": 679
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 817,
+            "distance": 1217
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 519,
+            "distance": 719
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 490,
+            "distance": 641
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 627,
+            "distance": 871
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 633,
+            "distance": 888
+      },
+      {
+            "fromPOIid": 22,
+            "fromPOIName": "The_Jewish_Museum_of_Greece",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1354,
+            "distance": 1951
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 455,
+            "distance": 467
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 522,
+            "distance": 700
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 462,
+            "distance": 660
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1595,
+            "distance": 2049
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 625,
+            "distance": 862
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 15610,
+            "distance": 20282
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 1329,
+            "distance": 1532
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 1554,
+            "distance": 1860
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 1600,
+            "distance": 1923
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 690,
+            "distance": 966
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 840,
+            "distance": 1004
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 1449,
+            "distance": 1691
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 1766,
+            "distance": 2253
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 1642,
+            "distance": 2122
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 1061,
+            "distance": 1488
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 933,
+            "distance": 1113
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 803,
+            "distance": 987
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 571,
+            "distance": 801
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 808,
+            "distance": 1031
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 519,
+            "distance": 672
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 605,
+            "distance": 784
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 758,
+            "distance": 982
+      },
+      {
+            "fromPOIid": 23,
+            "fromPOIName": "Athens_University_History_Museum",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1108,
+            "distance": 1535
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 591,
+            "distance": 615
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 201,
+            "distance": 271
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1057,
+            "distance": 1464
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 2195,
+            "distance": 2926
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 488,
+            "distance": 674
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 15620,
+            "distance": 20396
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 1414,
+            "distance": 1762
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 1639,
+            "distance": 2091
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 1684,
+            "distance": 2153
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 827,
+            "distance": 1172
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 954,
+            "distance": 1236
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 1533,
+            "distance": 1922
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 2366,
+            "distance": 3130
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 2241,
+            "distance": 3000
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 626,
+            "distance": 892
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 1173,
+            "distance": 1513
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 1068,
+            "distance": 1434
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 1061,
+            "distance": 1507
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 1097,
+            "distance": 1473
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 660,
+            "distance": 871
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 624,
+            "distance": 784
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 1189,
+            "distance": 1614
+      },
+      {
+            "fromPOIid": 24,
+            "fromPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 1496,
+            "distance": 2110
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 1222,
+            "distance": 1456
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 1124,
+            "distance": 1529
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 984,
+            "distance": 1427
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1120,
+            "distance": 1452
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 1147,
+            "distance": 1528
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 15181,
+            "distance": 19817
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 922,
+            "distance": 1066
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 1147,
+            "distance": 1395
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 1193,
+            "distance": 1457
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 943,
+            "distance": 1349
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 433,
+            "distance": 538
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 1042,
+            "distance": 1225
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 1305,
+            "distance": 1685
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 1196,
+            "distance": 1551
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 1697,
+            "distance": 2305
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 395,
+            "distance": 483
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 202,
+            "distance": 245
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 681,
+            "distance": 1001
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 231,
+            "distance": 285
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 689,
+            "distance": 888
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 765,
+            "distance": 982
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 1207,
+            "distance": 1614
+      },
+      {
+            "fromPOIid": 25,
+            "fromPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "toPOIid": 27,
+            "toPOIName": "Municipal_Gallery_of_Athens",
+            "duration": 912,
+            "distance": 1314
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 1,
+            "toPOIName": "Acropolis_of_Athens",
+            "duration": 1605,
+            "distance": 1855
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 2,
+            "toPOIName": "Acropolis_Museum",
+            "duration": 1809,
+            "distance": 2334
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 3,
+            "toPOIName": "Ancient_Agora_of_Athens",
+            "duration": 1011,
+            "distance": 1333
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 4,
+            "toPOIName": "National_Archaeological_Museum",
+            "duration": 1386,
+            "distance": 1677
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 5,
+            "toPOIName": "Temple_of_Olympian_Zeus",
+            "duration": 1809,
+            "distance": 2334
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 6,
+            "toPOIName": "Attica_Zoological_Park",
+            "duration": 16096,
+            "distance": 20898
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 8,
+            "toPOIName": "Benaki_Museum",
+            "duration": 1973,
+            "distance": 2376
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 9,
+            "toPOIName": "Byzantine_And_Christian_Museum",
+            "duration": 2198,
+            "distance": 2705
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 10,
+            "toPOIName": "Athens_War_Museum",
+            "duration": 2243,
+            "distance": 2768
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 11,
+            "toPOIName": "Temple_of_Hephaestus",
+            "duration": 734,
+            "distance": 951
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 12,
+            "toPOIName": "Syntagma_(Constitution)_Square",
+            "duration": 1484,
+            "distance": 1849
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 13,
+            "toPOIName": "Museum_of_Cycladic_Art",
+            "duration": 2092,
+            "distance": 2536
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 14,
+            "toPOIName": "Radisson_Blu_Park_Hotel_Athens",
+            "duration": 1422,
+            "distance": 1714
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 15,
+            "toPOIName": "Hellenic_Motor_Museum",
+            "duration": 1212,
+            "distance": 1474
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 16,
+            "toPOIName": "Ethniko_Mouseio_Sugkhrones_Tekhnes_(EMST)",
+            "duration": 2142,
+            "distance": 2821
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 17,
+            "toPOIName": "Numismatic_Museum_of_Athens",
+            "duration": 1459,
+            "distance": 1792
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 18,
+            "toPOIName": "National_Historical_Museum",
+            "duration": 1253,
+            "distance": 1556
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 19,
+            "toPOIName": "Museum_of_Illusions_Athens_-_Greece",
+            "duration": 624,
+            "distance": 794
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 20,
+            "toPOIName": "Old_Parliament",
+            "duration": 1282,
+            "distance": 1595
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 22,
+            "toPOIName": "The_Jewish_Museum_of_Greece",
+            "duration": 1567,
+            "distance": 1951
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 23,
+            "toPOIName": "Athens_University_History_Museum",
+            "duration": 1269,
+            "distance": 1535
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 24,
+            "toPOIName": "Ilias_Lalaounis_Jewelry_Museum",
+            "duration": 1656,
+            "distance": 2110
+      },
+      {
+            "fromPOIid": 27,
+            "fromPOIName": "Municipal_Gallery_of_Athens",
+            "toPOIid": 25,
+            "toPOIName": "Museums_of_the_City_of_Athens_Vouros_Eutaxias_Foundation",
+            "duration": 1057,
+            "distance": 1315
+      }
+]

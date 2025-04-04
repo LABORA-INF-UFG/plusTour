@@ -1,0 +1,89 @@
+poiID,poiName,poiLat,poiLon,poiTheme
+0,Arts Precinct,-37.82167,144.96778,City precincts
+1,Docklands,-37.817,144.946,City precincts
+2,Government Precinct,-37.8119,144.973,City precincts
+3,Little Italy,-37.79972,144.96694,City precincts
+4,RMIT City,-37.80778,144.96333,City precincts
+5,Southbank,-37.829,144.957,City precincts
+6,Sports and Entertainment Precinct,-37.81667,144.98333,City precincts
+7,University of Melbourne,-37.7963,144.9614,City precincts
+8,Block Arcade,-37.81583,144.96444,Shopping
+9,Bourke Street,-37.8139,144.96452,Shopping
+10,Bridge Road,-37.8175639,144.9903278,Shopping
+11,Brunswick Street,-37.79833,144.978472,Shopping
+12,Chapel Street,-37.84083,144.99528,Shopping
+13,Centre Place,-37.816583,144.9655,Shopping
+14,Collins Street,-37.8168,144.9622,Shopping
+15,Degraves Street,-37.8175,144.96583,Shopping
+16,Elizabeth Street,-37.8096,144.961,Shopping
+17,Flinders Lane,-37.81694,144.96556,Shopping
+18,Little Collins Street,-37.8151,144.9641,Shopping
+19,Melbourne Central Shopping Centre,-37.81056,144.96,Shopping
+20,Pran Central,-37.847414,144.993503,Shopping
+21,Queen Victoria Market,-37.806966,144.956693,Shopping
+22,Queen Victoria Village,-37.81,144.9652,Shopping
+23,Royal Arcade,-37.8145,144.9641,Shopping
+24,Swanston Street,-37.8064,144.963,Shopping
+25,Crown Casino and Entertainment Complex,-37.822324,144.960099,Entertainment
+26,Luna Park,-37.868036,144.976369,Entertainment
+27,Melbourne Aquarium,-37.821044,144.958017,Entertainment
+28,Melbourne Zoo,-37.784762,144.952095,Entertainment
+29,Australian Centre for Contemporary Art,-37.826497,144.967014,Public galleries
+30,Ian Potter Museum of Art,-37.7975,144.964111,Public galleries
+31,NGV International,-37.822595,144.968634,Public galleries
+32,General Post Office,-37.81384,144.963028,Institutions
+33,Government House,-37.827939,144.976939,Institutions
+34,Melbourne Observatory,-37.8297,144.9755,Institutions
+35,Melbourne Town Hall,-37.815145,144.966777,Institutions
+36,Old Melbourne Gaol,-37.80806,144.96528,Institutions
+37,Old Melbourne Magistrates' Court,-37.8087,144.966,Institutions
+38,Old Melbourne Mint,-37.812153,144.956794,Institutions
+39,Old Treasury Building,-37.813153,144.974121,Institutions
+40,Parliament House,-37.811055,144.97329,Institutions
+41,State Library of Victoria,-37.809801,144.964787,Institutions
+42,Supreme Court of Victoria,-37.814132,144.957932,Institutions
+43,Victoria Barracks,-37.827391,144.970447,Institutions
+44,Arts Centre,-37.82028,144.96833,Structures
+45,Eureka Tower,-37.82167,144.96444,Structures
+46,Melbourne Convention and Exhibition Centre,-37.8256,144.9541,Structures
+47,Melbourne Star,-37.8110723,144.9368763,Structures
+48,Royal Exhibition Building,-37.804728,144.971225,Structures
+49,Shrine of Remembrance,-37.830434,144.973258,Structures
+50,St Paul's Cathedral,-37.816853,144.967384,Structures
+51,St Patrick's Cathedral,-37.81,144.97611,Structures
+52,Melbourne Rectangular Stadium (AAMI Park),-37.82528,144.98389,Sports stadiums
+53,Docklands Stadium (Etihad Stadium),-37.81639,144.9475,Sports stadiums
+54,Flemington Racecourse,-37.79028,144.9125,Sports stadiums
+55,Margaret Court Arena,-37.821112,144.97741,Sports stadiums
+56,Melbourne Multi Purpose Venue (Hisense Arena),-37.82278,144.98167,Sports stadiums
+57,Melbourne Cricket Ground (MCG),-37.82,144.98333,Sports stadiums
+58,Melbourne Grand Prix Circuit,-37.84972,144.96833,Sports stadiums
+59,Melbourne Sports and Aquatic Centre (MSAC),-37.84667,144.96611,Sports stadiums
+60,Lakeside Stadium,-37.84028,144.965,Sports stadiums
+61,National Ice Sports Centre (O'Brien Group Arena),-37.8123777,144.9355674,Sports stadiums
+62,Olympic Park Stadium,-37.82472,144.98111,Sports stadiums
+63,Rod Laver Arena,-37.82167,144.97833,Sports stadiums
+64,Royal Melbourne Golf Club,-37.97,145.03,Sports stadiums
+65,Princes Park (Ikon Park),-37.78389,144.96167,Sports stadiums
+66,Albert Park and Lake,-37.846,144.97,Parks and spaces
+67,Alexandra Gardens,-37.82037,144.971938,Parks and spaces
+68,Birrarung Marr,-37.81833,144.9725,Parks and spaces
+69,Carlton Gardens,-37.80611,144.97028,Parks and spaces
+70,City Square,-37.816,144.967,Parks and spaces
+71,Federation Square,-37.817798,144.968714,Parks and spaces
+72,Fitzroy Gardens,-37.8125641,144.9803925,Parks and spaces
+73,Flagstaff Gardens,-37.8105,144.9544,Parks and spaces
+74,Kings Domain,-37.8282598,144.9775815,Parks and spaces
+75,Queen Victoria Gardens,-37.8218,144.9716,Parks and spaces
+76,Royal Botanic Gardens,-37.8334,144.98033,Parks and spaces
+77,Royal Park,-37.7901833,144.9511667,Parks and spaces
+78,Treasury Gardens,-37.814158,144.976194,Parks and spaces
+79,Yarra Park,-37.8180437,144.9852312,Parks and spaces
+80,Bolte Bridge,-37.8194778,144.932125,Transport
+81,Capital City Trail,-37.819744,144.968516,Transport
+82,Flinders Street station,-37.818078,144.96681,Transport
+83,Melbourne Airport,-37.67333,144.84333,Transport
+84,Melbourne Central station,-37.81,144.96278,Transport
+85,Southern Cross station,-37.8184,144.9524,Transport
+86,West Gate Bridge,-37.82944,144.89806,Transport
+87,Yarra River,-37.85194,144.90833,Transport
