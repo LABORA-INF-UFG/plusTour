@@ -11,7 +11,8 @@
 	- [Phase 1](#phase-1)
 	- [Phase 2](#phase-2)
 	- [Processing the results](#processing-the-results)
-- [Citation](#citation)
+- [+Tour Elsevier Computer Networks](#tour-elsevier-computer-networks)
+	- [Citation](#citation)
 - [Contact us](#contact-us)
 
 ## Getting started
@@ -244,7 +245,11 @@ After the execution, a `first_phase_num_tours.csv` file will be generated in `re
   * **AE:** Value of the **Allocation Efficience** metric;
   * **UE:** Value of the **User Experience** metric.
 
-## Citation
+## +Tour Elsevier Computer Networks
+
+For more information, read the [+Tour Elsevier Computer Networks Paper](https://arxiv.org/abs/2502.17345).
+
+### Citation
 
 Feel free to use the data sets and +Tour! Please do not forget to cite our paper! :)
 
